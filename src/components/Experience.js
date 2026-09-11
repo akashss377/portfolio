@@ -117,7 +117,7 @@ function Experience() {
 
                             <div className="journey-date">
                                 <FaCalendarAlt />
-                                <span>Computer Science</span>
+                                <span>2025</span>
                             </div>
 
                             <p>
